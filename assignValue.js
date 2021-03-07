@@ -20,3 +20,5 @@ a should have a value of 7.*/
 var a;
 //console.log(a); // undefined error because it is not assigned
 // Only change code below this line
+a = 7;
+console.log(a); // it will not take undefined error
